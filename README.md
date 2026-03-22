@@ -346,12 +346,7 @@ POST /tickets/checkout/
 ## 🧪 Testes
 
 ```bash
-# Rodar todos os testes
+
 docker exec -it cinereverse-web-1 python manage.py test
 
-# Rodar testes de um app específico
-docker exec -it cinereverse-web-1 python manage.py test apps.user
-
-# Rodar com detalhes
-docker exec -it cinereverse-web-1 python manage.py test --verbosity=2
 ```
