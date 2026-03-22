@@ -1,6 +1,6 @@
 # CineReserve API 🎬
 
-API RESTful para gerenciamento do **Cinépolis Natal**, desenvolvida com Django REST Framework. O sistema permite gerenciar filmes, salas, sessões, reservas de assentos e geração de ingressos com foco em integridade de dados e controle de concorrência.
+API RESTful para gerenciamento do **Cinema**, desenvolvida com Django REST Framework. O sistema permite gerenciar filmes, salas, sessões, reservas de assentos e geração de ingressos com foco em integridade de dados e controle de concorrência.
 
 ---
 
@@ -29,7 +29,7 @@ API RESTful para gerenciamento do **Cinépolis Natal**, desenvolvida com Django 
 ### 1. Clone o repositório
 
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/carvalhoewerton/cine-reserve.git
 cd cinereverse
 ```
 
