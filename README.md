@@ -1,6 +1,6 @@
 # CineReserve API 🎬
 
-API RESTful para gerenciamento do **Cinema**, desenvolvida com Django REST Framework. O sistema permite gerenciar filmes, salas, sessões, reservas de assentos e geração de ingressos com foco em integridade de dados e controle de concorrência.
+API RESTful para gerenciamento de **Cinemas**, desenvolvida com Django REST Framework. O sistema permite gerenciar filmes, salas, sessões, reservas de assentos e geração de ingressos com foco em integridade de dados e controle de concorrência.
 
 ---
 
