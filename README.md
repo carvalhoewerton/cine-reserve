@@ -66,7 +66,7 @@ Isso irá subir automaticamente:
 ### 4. Crie um superusuário (staff)
 
 ```bash
-docker exec -it cinereverse-web-1 python manage.py createsuperuser
+docker exec -it cinereverse-web-1 poetry run python manage.py createsuperuser
 ```
 
 ---
@@ -347,6 +347,6 @@ POST /tickets/checkout/
 
 ```bash
 
-docker exec -it cinereverse-web-1 python manage.py test
+docker exec -it cinereverse-web-1 poetry run python manage.py test
 
 ```
